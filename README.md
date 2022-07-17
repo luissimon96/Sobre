@@ -29,7 +29,7 @@
 ### Sobre mim
 <div style="display: inline_block"  >
 <img align="right" width="250" height="250" style="border-radius:30px;" src="DevOps logo.png?raw=true" />
-<p> - 👨‍💻 DevOps Developer OSS na [Telefonica Brasil](https://github.com/telefonica) </p>
+<p> - 👨‍💻 DevOps Developer OSS na <a href="https://www.linkedin.com/in/lu%C3%ADs-eduardo-simon-34739514b/details/experience/">Telefonica do Brasil</a> </p>
 <p> - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas </p>
 <p> - 🎯 Interesse: DevOps, DevOps Sec, Java, Terraform, Spring Boot, Micro Serviços, Docker, Kubernetes, API , AWS , Monitoria kafka Prometheus Grafana. </p>
 <p> - 🎯 Meta de Vida: Ganhar muito bem para viajar em um Motor-Home pelo mundo, vivendo a vida enquanto faço o que amo! </p>
@@ -63,11 +63,11 @@
 
 <p align="center">
     <a href="https://github.com/luissimon96">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/teteusAraujo">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/luissimon96">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:luissimon96@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mateusaraujo996@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:luissimon96@gmail.com">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/lu%C3%ADs-eduardo-simon-34739514b">
