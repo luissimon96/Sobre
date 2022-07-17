@@ -28,9 +28,7 @@
 
 ### Sobre mim
 <div style="display: inline_block"  >
-  <a href="#">
-    <img align="center" width="300" src="DevOps logo.png" />
-  </a>
+<img align="right" width="250" height="250" style="border-radius:30px;" src="DevOps logo.png?raw=true" />
 <p> - 👨‍💻 DevOps Developer OSS na Telefonica do Brasil. </p>
 <p> - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas </p>
 <p> - 🎯 Interesse: DevOps, DevOps Sec, Java, Terraform, Spring Boot, Micro Serviços, Docker, Kubernetes, API , AWS , Monitoria kafka Prometheus Grafana. </p>
