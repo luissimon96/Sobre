@@ -33,7 +33,7 @@
 <p> - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas </p>
 <p> - 🎯 Interesse: DevOps, DevOps Sec, Java, Terraform, Spring Boot, Micro Serviços, Docker, Kubernetes, API , AWS , Monitoria kafka Prometheus Grafana. </p>
 <p> - 🎯 Meta de Vida: Ganhar muito bem para viajar em um Motor-Home pelo mundo, vivendo a vida enquanto faço o que amo! </p>
-<p> - 🦊 Desde 2010 estudo e trabalho com Informática e técnologia, já atuei em diversas áreas da TI e hoje meu foco é ganhar 20k por mês utilizando DevOps e Java  </p>
+<p> - 🦊 Desde 2010 estudo e trabalho com Informática e técnologia, já atuei em diversas áreas da TI e hoje meu foco é ganhar 20k por mês utilizando DevOps. </p>
 </div>
 
 ## Minhas skills :nerd_face:
